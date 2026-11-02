@@ -1,0 +1,4 @@
+JOIA = confirmar a operação e calcular o resultado
+CRUZ = operador de soma
+NÚMEROS = representam os números de 0 a 5 usando os dedos
+RESET = zerar a calculadora
